@@ -140,6 +140,7 @@ long floorDex(double x) {
   return x;
 }
 
+/*
 int testit() {
   printf("%" PRIx64 "\n", threefry2x32(0,0));   // expected: 0x6b2001590x99ba4efe
   printf("%" PRIx64 "\n", threefry2x32(-1,-1)); // expected: 0x1cb996fc0xbb002be7
@@ -147,7 +148,4 @@ int testit() {
      0x13198a2e03707344,  0x243f6a8885a308d3)); // expected: 0xc4923a9c0x483df7a0
   return 0;
 }
-
-int main(int argc, const char* argv[]) {
-  testit();
-}
+*/
